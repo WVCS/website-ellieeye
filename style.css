@@ -1,3 +1,27 @@
-body {
+@charset "utf-8";
 
+body {	
+background-color: mistyrose;
+font-style: italic;
+color: #A88263
 }
+
+h2 {
+	text-shadow: 2px 2px #FFB6C1
+}
+
+h2 {
+	font-family: "Georgia"
+}
+
+img {
+	width: 300px
+}
+
+img:hover {
+	border: dotted 5px pink;
+	width: 400px;
+	border-radius: 70%
+}
+
+	
